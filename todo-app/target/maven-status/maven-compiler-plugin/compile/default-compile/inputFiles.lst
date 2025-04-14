@@ -1,0 +1,12 @@
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/controller/TodoController.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/config/StorageTypeFlag.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/Main.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/config/StorageManager.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/model/Todo.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/repository/PostgresTodoRepository.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/config/SplitConfig.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/service/TodoService.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/repository/InMemoryTodoRepository.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/config/UserTypeFlag.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/repository/TodoRepository.java
+/workspaces/java-postgres/todo-app/src/main/java/com/example/todoapp/config/DatabaseConfig.java

@@ -1,0 +1,12 @@
+com/example/todoapp/config/StorageTypeFlag.class
+com/example/todoapp/config/StorageManager.class
+com/example/todoapp/repository/TodoRepository.class
+com/example/todoapp/service/TodoService.class
+com/example/todoapp/repository/InMemoryTodoRepository.class
+com/example/todoapp/controller/TodoController.class
+com/example/todoapp/config/UserTypeFlag.class
+com/example/todoapp/repository/PostgresTodoRepository.class
+com/example/todoapp/config/SplitConfig.class
+com/example/todoapp/Main.class
+com/example/todoapp/config/DatabaseConfig.class
+com/example/todoapp/model/Todo.class
